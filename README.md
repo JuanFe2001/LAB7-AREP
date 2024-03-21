@@ -109,6 +109,13 @@ Para agregar un nuevo servicio a esta infraestructura, se deben seguir los sigui
 
   ![image](https://github.com/JuanFe2001/LAB7-AREP/assets/123691538/cea0e39f-b8cc-4208-82e9-a978f208d0a4)
 
+  ## DESPLIEGUE EN AWS
+  Acontinuacion encontrara el video de como se hizo el despliegue de la pagina en AWS:
+
+  https://youtu.be/Fh_fT8530c4
+
+  
+
   
 
   
