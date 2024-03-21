@@ -41,7 +41,7 @@ Debe permitir un acceso seguro desde el browser a la aplicación. Es decir debe 
   **LoginService**: Proporciona funcionalidad para configurar y ejecutar un servidor seguro de inicio de sesión utilizando HTTPS, así como para realizar solicitudes HTTP GET a una URL especificada.
   **UserService**: proporciona funcionalidad para agregar usuarios, calcular y verificar contraseñas hash, así como para configurar y ejecutar un servidor seguro de autenticación de usuario utilizando HTTPS.
 
-  ## Arquitectura:
+## Arquitectura:
 
 **Componentes del diagrama**:
 
