@@ -41,21 +41,21 @@ public class UsersServiceTest extends TestCase {
 
 
     public void testVerifyValidLogin() throws NoSuchAlgorithmException {
-        String name = "Alexis";
+        String name = "Juan";
         String password = "password123";
         UserService.addUser(name, password);
         assertTrue(UserService.verifyPassword(name, password));
     }
 
     public void testVerifyInvalidPassword() throws NoSuchAlgorithmException {
-        String name = "Alexis";
+        String name = "Juan";
         String password = "password123";
         UserService.addUser(name, password);
         assertFalse(UserService.verifyPassword(name, "123password"));
     }
 
     public void testVerifyInvalidUser() throws NoSuchAlgorithmException {
-        String name = "Alexis";
+        String name = "Juan";
         String password = "password123";
         UserService.addUser(name, password);
         assertFalse(UserService.verifyPassword("Jefer", password));
