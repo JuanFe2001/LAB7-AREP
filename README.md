@@ -112,7 +112,7 @@ Para agregar un nuevo servicio a esta infraestructura, se deben seguir los sigui
   ## DESPLIEGUE EN AWS
   Acontinuacion encontrara el video de como se hizo el despliegue de la pagina en AWS:
 
-  https://youtu.be/Fh_fT8530c4
+   [![LAB7 AREP AWS](https://youtu.be/Fh_fT8530c4)
 
   
 
