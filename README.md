@@ -92,8 +92,8 @@ Para agregar un nuevo servicio a esta infraestructura, se deben seguir los sigui
   * Caso incorrecto
     **Usuario**: Felipe
     **Contraseña**: Juan
-
-  ![image](https://github.com/JuanFe2001/LAB7-AREP/assets/123691538/85ee194e-d24b-435b-95d1-0e03101c05d6)
+    
+  ![image](https://github.com/JuanFe2001/LAB7-AREP/assets/123691538/7d3ad2c6-087d-4aff-83df-fc9040cea13f)
 
   **PRUEBA 3**
   * Caso exitoso
