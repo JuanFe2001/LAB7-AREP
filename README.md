@@ -114,6 +114,9 @@ Para agregar un nuevo servicio a esta infraestructura, se deben seguir los sigui
 
   [![LAB7 AREP AWS](https://img.youtube.com/vi/Fh_fT8530c4/0.jpg)](https://www.youtube.com/watch?v=Fh_fT8530c4)
 
+  ## Autor:
+  **Juan Felipe Vivas Manrique**
+
 
 
   
