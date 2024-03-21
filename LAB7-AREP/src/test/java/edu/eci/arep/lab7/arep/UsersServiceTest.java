@@ -58,7 +58,7 @@ public class UsersServiceTest extends TestCase {
         String name = "Juan";
         String password = "password123";
         UserService.addUser(name, password);
-        assertFalse(UserService.verifyPassword("Jefer", password));
+        assertFalse(UserService.verifyPassword("Juan", password));
     }
 
 }
